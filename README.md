@@ -1,2 +1,2 @@
 # pachong
-内容抓取：通过 Python 爬虫对豆瓣电影中的电影数据和海报等信息进行抓取
+Content capture: Use Python crawler to capture information such as movie data and posters in Douban movies.
